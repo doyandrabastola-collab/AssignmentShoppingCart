@@ -19,7 +19,7 @@ const [color, setcolor] = useState('red')
   <h1 className=" text-center text-xl">
     Mini Traffic Light
   </h1>
-<div className='flex justify-center' >
+<div className='flex justi' >
 
 
   <p className={`p-2   w-20 mt-2 ${colorMap[color]}`}>
